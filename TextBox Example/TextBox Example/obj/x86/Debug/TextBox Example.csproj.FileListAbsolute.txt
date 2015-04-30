@@ -1,0 +1,9 @@
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBox Example\TextBox Example\obj\x86\Debug\TextBox Example.csprojResolveAssemblyReference.cache
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBox Example\TextBox Example\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBox Example\TextBox Example\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBox Example\TextBox Example\bin\x86\Debug\TextBoxes Example.exe
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBox Example\TextBox Example\bin\x86\Debug\TextBoxes Example.pdb
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBox Example\TextBox Example\bin\x86\Debug\TextBoxes.dll
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBox Example\TextBox Example\bin\x86\Debug\TextBoxes.pdb
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBox Example\TextBox Example\obj\x86\Debug\TextBoxes Example.exe
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBox Example\TextBox Example\obj\x86\Debug\TextBoxes Example.pdb

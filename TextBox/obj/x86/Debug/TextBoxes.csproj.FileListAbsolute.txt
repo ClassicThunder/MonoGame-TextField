@@ -1,0 +1,5 @@
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBoxes Example\TExtBoxes\bin\x86\Debug\TExtBoxes.dll
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBoxes Example\TExtBoxes\bin\x86\Debug\TExtBoxes.pdb
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBoxes Example\TExtBoxes\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBoxes Example\TExtBoxes\obj\x86\Debug\TExtBoxes.dll
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBoxes Example\TExtBoxes\obj\x86\Debug\TExtBoxes.pdb
