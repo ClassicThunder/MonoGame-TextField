@@ -51,9 +51,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TextBox\TextBox.csproj">
+    <ProjectReference Include="..\TextBox\CTTextBox.csproj">
       <Project>{2350a8de-06cc-43d1-b30d-e73cb1ecdf20}</Project>
-      <Name>TextBox</Name>
+      <Name>CTTextBox</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

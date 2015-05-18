@@ -1,0 +1,6 @@
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBox\bin\x86\Debug\CTTextBoxes.dll
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBox\bin\x86\Debug\CTTextBoxes.pdb
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBox\obj\x86\Debug\CTTextBox.csprojResolveAssemblyReference.cache
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBox\obj\x86\Debug\CTTextBoxes.dll
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBox\obj\x86\Debug\CTTextBoxes.pdb

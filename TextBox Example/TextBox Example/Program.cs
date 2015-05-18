@@ -1,5 +1,3 @@
-using System;
-
 namespace TextBoxes_Example {
 #if WINDOWS || XBOX
     static class Program

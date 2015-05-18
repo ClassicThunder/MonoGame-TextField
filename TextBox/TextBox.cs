@@ -5,7 +5,17 @@ namespace CTTextBox
 {
     public class TextBox 
     {
+        /*####################################################################*/
+        /*                             Variables                              */
+        /*####################################################################*/
+
         public GraphicsDevice GraphicsDevice { get; set; }
+
+        public Rectangle Area { get { return TextRenderer.Area; } }
+
+        /*####################################################################*/
+        /*                             Variables                              */
+        /*####################################################################*/
 
         internal readonly Text Text;
         internal readonly TextRenderer TextRenderer;

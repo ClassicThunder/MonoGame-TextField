@@ -1,0 +1,9 @@
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\CTInput Example\CTInput Example\bin\x86\Debug\Content\TestFont.xnb
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\CTInput Example\CTInput Example\bin\x86\Debug\CTInput Example.exe
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\CTInput Example\CTInput Example\bin\x86\Debug\CTInput Example.pdb
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\CTInput Example\CTInput Example\bin\x86\Debug\CTInput.dll
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\CTInput Example\CTInput Example\bin\x86\Debug\CTInput.pdb
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\CTInput Example\CTInput Example\obj\x86\Debug\CTInput Example.csprojResolveAssemblyReference.cache
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\CTInput Example\CTInput Example\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\CTInput Example\CTInput Example\obj\x86\Debug\CTInput Example.exe
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\CTInput Example\CTInput Example\obj\x86\Debug\CTInput Example.pdb

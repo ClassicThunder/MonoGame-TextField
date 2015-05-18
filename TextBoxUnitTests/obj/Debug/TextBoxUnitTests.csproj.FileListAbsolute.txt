@@ -1,1 +1,13 @@
 C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBoxUnitTests\obj\Debug\TextBoxUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBoxUnitTests\bin\Debug\TextBoxUnitTests.dll
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBoxUnitTests\bin\Debug\TextBoxUnitTests.pdb
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBoxUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBoxUnitTests\bin\Debug\TextBoxes.dll
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBoxUnitTests\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBoxUnitTests\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBoxUnitTests\bin\Debug\TextBoxes.pdb
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBoxUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBoxUnitTests\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBoxUnitTests\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBoxUnitTests\obj\Debug\TextBoxUnitTests.dll
+C:\Users\sfranks3\Dropbox\Software\GameDevelopment\TextBoxes\TextBox\TextBoxUnitTests\obj\Debug\TextBoxUnitTests.pdb

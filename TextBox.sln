@@ -1,13 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBox Example", "TextBox Example\TextBox Example\TextBox Example.csproj", "{A093CAB1-1B90-4CC5-AA52-BC7CA20435A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTTextBox Example", "TextBox Example\TextBox Example\CTTextBox Example.csproj", "{A093CAB1-1B90-4CC5-AA52-BC7CA20435A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBox ExampleContent", "TextBox Example\TextBox ExampleContent\TextBox ExampleContent.contentproj", "{F50642EE-8E04-4F30-84FC-10C2312CDA50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTTextBox ExampleContent", "TextBox Example\TextBox ExampleContent\CTTextBox ExampleContent.contentproj", "{F50642EE-8E04-4F30-84FC-10C2312CDA50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBox", "TextBox\TextBox.csproj", "{2350A8DE-06CC-43D1-B30D-E73CB1ECDF20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTTextBox", "TextBox\CTTextBox.csproj", "{2350A8DE-06CC-43D1-B30D-E73CB1ECDF20}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxUnitTests", "TextBoxUnitTests\TextBoxUnitTests.csproj", "{8BC4B32B-0CEB-44CF-92C6-4F6914DC4BF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTInput", "..\..\Input\CTInput.csproj", "{32C13AA0-4763-45E0-9D96-5AFD378B4CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTInput Example", "CTInput Example\CTInput Example\CTInput Example.csproj", "{503F9818-41E3-4036-A76F-F1E65DDCFF15}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CTInput ExampleContent", "CTInput Example\CTInput ExampleContent\CTInput ExampleContent.contentproj", "{2EB804E6-2E3C-49F8-AEAB-F1687CE8771A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Input", "Input", "{E515793D-2E02-4423-865A-9ACEFA88B997}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TextBox", "TextBox", "{1742080E-4D7F-4B5A-82C0-0D2A6C6B8AB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,8 +65,43 @@ Global
 		{8BC4B32B-0CEB-44CF-92C6-4F6914DC4BF5}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{8BC4B32B-0CEB-44CF-92C6-4F6914DC4BF5}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{8BC4B32B-0CEB-44CF-92C6-4F6914DC4BF5}.Release|x86.ActiveCfg = Release|Any CPU
+		{32C13AA0-4763-45E0-9D96-5AFD378B4CAA}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{32C13AA0-4763-45E0-9D96-5AFD378B4CAA}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{32C13AA0-4763-45E0-9D96-5AFD378B4CAA}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{32C13AA0-4763-45E0-9D96-5AFD378B4CAA}.Debug|x86.ActiveCfg = Debug|x86
+		{32C13AA0-4763-45E0-9D96-5AFD378B4CAA}.Debug|x86.Build.0 = Debug|x86
+		{32C13AA0-4763-45E0-9D96-5AFD378B4CAA}.Release|Any CPU.ActiveCfg = Release|x86
+		{32C13AA0-4763-45E0-9D96-5AFD378B4CAA}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{32C13AA0-4763-45E0-9D96-5AFD378B4CAA}.Release|Mixed Platforms.Build.0 = Release|x86
+		{32C13AA0-4763-45E0-9D96-5AFD378B4CAA}.Release|x86.ActiveCfg = Release|x86
+		{32C13AA0-4763-45E0-9D96-5AFD378B4CAA}.Release|x86.Build.0 = Release|x86
+		{503F9818-41E3-4036-A76F-F1E65DDCFF15}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{503F9818-41E3-4036-A76F-F1E65DDCFF15}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{503F9818-41E3-4036-A76F-F1E65DDCFF15}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{503F9818-41E3-4036-A76F-F1E65DDCFF15}.Debug|x86.ActiveCfg = Debug|x86
+		{503F9818-41E3-4036-A76F-F1E65DDCFF15}.Debug|x86.Build.0 = Debug|x86
+		{503F9818-41E3-4036-A76F-F1E65DDCFF15}.Release|Any CPU.ActiveCfg = Release|x86
+		{503F9818-41E3-4036-A76F-F1E65DDCFF15}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{503F9818-41E3-4036-A76F-F1E65DDCFF15}.Release|Mixed Platforms.Build.0 = Release|x86
+		{503F9818-41E3-4036-A76F-F1E65DDCFF15}.Release|x86.ActiveCfg = Release|x86
+		{503F9818-41E3-4036-A76F-F1E65DDCFF15}.Release|x86.Build.0 = Release|x86
+		{2EB804E6-2E3C-49F8-AEAB-F1687CE8771A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2EB804E6-2E3C-49F8-AEAB-F1687CE8771A}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{2EB804E6-2E3C-49F8-AEAB-F1687CE8771A}.Debug|x86.ActiveCfg = Debug|x86
+		{2EB804E6-2E3C-49F8-AEAB-F1687CE8771A}.Release|Any CPU.ActiveCfg = Release|x86
+		{2EB804E6-2E3C-49F8-AEAB-F1687CE8771A}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{2EB804E6-2E3C-49F8-AEAB-F1687CE8771A}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2EB804E6-2E3C-49F8-AEAB-F1687CE8771A} = {E515793D-2E02-4423-865A-9ACEFA88B997}
+		{503F9818-41E3-4036-A76F-F1E65DDCFF15} = {E515793D-2E02-4423-865A-9ACEFA88B997}
+		{32C13AA0-4763-45E0-9D96-5AFD378B4CAA} = {E515793D-2E02-4423-865A-9ACEFA88B997}
+		{2350A8DE-06CC-43D1-B30D-E73CB1ECDF20} = {1742080E-4D7F-4B5A-82C0-0D2A6C6B8AB0}
+		{A093CAB1-1B90-4CC5-AA52-BC7CA20435A8} = {1742080E-4D7F-4B5A-82C0-0D2A6C6B8AB0}
+		{F50642EE-8E04-4F30-84FC-10C2312CDA50} = {1742080E-4D7F-4B5A-82C0-0D2A6C6B8AB0}
+		{8BC4B32B-0CEB-44CF-92C6-4F6914DC4BF5} = {1742080E-4D7F-4B5A-82C0-0D2A6C6B8AB0}
 	EndGlobalSection
 EndGlobal

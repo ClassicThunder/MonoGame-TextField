@@ -40,11 +40,13 @@ namespace TextBoxes_Example
 
             _testColor = new Texture2D(GraphicsDevice, 1, 1);
             _testColor.SetData(new [] { Color.LightGray } );
-
+             
             _spriteFont = Content.Load<SpriteFont>("SpriteFont1");
 
             var str =
-                "adhkfasdjklfh asjkdhf asdjklf kjladhf jkasdh fjklashfjukugheuigfahg asdjklgf asdjklgf askldgf ajklsdghfasdjklgfh asdjklhgfajklsdfh asjkldgfasdjklfh asjkldgf asjkldhfjkla gfsdhjklgf lasjkgf ljksda";
+                "adhkfasdjklfh asjkdhf asdjklf kjladhf jkasdh fjklashfjukugheuigfahg asdjklgf asdjklgf askldgf"
+                + " ajklsdghfasdjklgfh asdjklhgfajklsdfh asjkldgfasdjklfh asjkldgf asjkldhfjkla gfsdhjklgf"
+                + " lasjkgf ljksda";
             _textBox = new TextBox(
                 new Rectangle(50, 50, 500, 200),
                 200,
@@ -68,6 +70,7 @@ namespace TextBoxes_Example
 
             _spriteBatch.Begin();
 
+            _spriteBatch.Draw(_testColor, _textBox.Area, Color.Tan);
             _textBox.Draw(_spriteBatch);
 
             _spriteBatch.End();
